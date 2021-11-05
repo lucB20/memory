@@ -20,8 +20,11 @@ executer le programme :
 java App
 ```
 
-## Arguments
+## Themes
 
+Vous pouvez modifier le thème du memory en modifiant les images dans le dossier data.
+Le thème d'origine est Sword Art Online mais vous pouvez le changer en renommant le dossier "AlternetiveData" en "data".
+Si vous souhaitez conserver vos meilleurs scores remplacez les fichiers bestScore3, bestScore4 et bestScore5 dans le nouveau dossier data.
 
 ## Creator
 
